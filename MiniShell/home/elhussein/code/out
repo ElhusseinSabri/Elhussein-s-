@@ -1,0 +1,30 @@
+command.cc
+command.h
+command.o
+examples
+lex.yy.c
+lex.yy.o
+logfile.txt
+Makefile
+out
+shell
+shell.l
+shell.y
+y.tab.c
+y.tab.h
+y.tab.o
+w-  1 elhussein elhussein  5894 Nov  6 07:07 command.cc
+-rw-rw-rw-  1 elhussein elhussein   761 Nov  5 09:30 command.h
+-rw-rw-r--  1 elhussein elhussein 49328 Nov  6 07:06 command.o
+drwxrwxrwx  2 elhussein elhussein  4096 Oct 29 20:34 examples
+-rw-rw-r--  1 elhussein elhussein 45505 Nov  5 10:01 lex.yy.c
+-rw-rw-r--  1 elhussein elhussein 44792 Nov  5 10:02 lex.yy.o
+-rw-rw-r--  1 elhussein elhussein    23 Nov  6 07:07 logfile.txt
+-rw-rw-rw-  1 elhussein elhussein   338 Oct 20 11:00 Makefile
+-rw-rw-r--  1 elhussein elhussein   129 Nov  6 07:07 out
+-rwxrwxr-x  1 elhussein elhussein 82488 Nov  6 07:06 shell
+-rw-rw-rw-  1 elhussein elhussein   594 Nov  5 10:01 shell.l
+-rw-rw-rw-  1 elhussein elhussein  2262 Nov  5 09:50 shell.y
+-rw-rw-r--  1 elhussein elhussein 45792 Nov  5 09:50 y.tab.c
+-rw-rw-r--  1 elhussein elhussein  3203 Nov  5 09:50 y.tab.h
+-rw-rw-r--  1 elhussein elhussein 28136 Nov  5 09:50 y.tab.o
