@@ -1,0 +1,162 @@
+html {
+    background-color: #fcfcfc;
+}
+
+h2 {
+    width: 30%;
+    margin: 30px auto;
+    padding: 30px;
+    text-align: center;
+    background:#1abc9c;
+    border: #B0C4DE;
+    border-radius: 8px;
+    color: rgb(246, 244, 244);
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+
+h3 {
+    width: 60%;
+    margin: 30px auto;
+    color:white;
+    background: #5F9EA0;
+    border:1px #569092;
+   border-radius: 8px;
+    text-align: center;
+    font-size: 22px;
+    padding: 20px;
+}
+
+table {
+    margin:15px auto;
+    width: 70%;
+    border-collapse:separate;
+    border: 1px solid #5F9EA0;
+    background-color: #f9f9f9;
+    padding: 4px;
+}
+
+.restbl {
+    margin:20px auto;
+    width: 80%;
+    border-collapse:collapse;
+    padding: 1px;
+    border: 1px solid #569092;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+
+}
+
+.restbl td {
+    border-collapse:collapse;
+    padding: 15px;
+    border: 1px #70c3c6;
+    background-color: #f9f9f9;
+
+}
+
+.rescol {
+    border: 1px solid #70c3c6 ;
+    padding: 10px;
+ 
+    background-color: #5F9EA0;
+    color: white;
+
+}
+
+.ip{
+    text-align: center;
+    border-radius: 8px;
+    background-color: rgba(229, 246, 241, 0.859);
+    padding: 5px;
+
+}
+
+.ip2 {
+    text-align: center;
+    padding: 5px auto;
+    border-radius: 8px;
+    background-color: rgba(229, 246, 241, 0.859);
+   
+}
+td {
+    text-align: center;
+    font-size: medium;
+    border:none;
+    background-color: #f8f8f8;
+    padding: 8px;
+    color:black;
+}
+
+.row {
+    text-align: center;
+    background-color: #6dbaac;
+    color:white;
+    border-radius: 8px;
+}
+
+ul {
+    list-style-type:none;
+    margin: 15px auto;
+    padding: 15px auto;
+}
+li {
+    float: left;
+    display: block;
+  color: black;
+  text-align: center;
+  padding: 6px;
+  text-decoration: none;
+  }
+
+  label 
+  { color: black; display: block; width: 75px; float: left;  }
+
+  input[type="submit"] {
+
+    padding: 16px 40px;
+    background-color: #1abc9c;
+    border-radius: 8px;
+    border-color: rgb(197, 196, 196);
+    color: white;
+    font-size: 16px;
+    margin: 0 auto;
+
+}
+
+  input[type=text] {
+    width: 70%;
+    box-sizing: border-box;
+    border: 1px solid #5F9EA0;
+    border-radius: 8px;
+  }
+
+  input[type="number"]
+  {
+    width: 50%;
+    box-sizing: border-box;
+    border: 1px solid #5F9EA0;
+    border-radius: 8px;
+  }
+
+  select {
+    width: 30%;
+    border-radius: 8px;
+    text-align: center;
+    box-sizing: border-box;
+    border: 1px solid #5F9EA0;
+    
+  }
+
+  .bt {
+    padding: 10px 30px;
+    background-color: #1abc9c;
+    border-radius: 8px;
+    border-color: rgb(197, 196, 196);
+    color: white;
+    font-size: 16px;
+    margin: 0 auto;
+
+  }
+
